@@ -8,4 +8,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="CalculatorEngine">
+      <HintPath>..\CalculatorEngine\bin\Debug\net8.0\CalculatorEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
